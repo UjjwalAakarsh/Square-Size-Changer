@@ -1,0 +1,37 @@
+body{
+    background-color:mediumaquamarine;
+
+}
+
+.heading{
+    margin: 0px;
+    width: 90%;
+    border: 5px double teal;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px teal;
+    font-size: 25px;
+}
+.note{
+    font-size: 15px;
+    color: greenyellow;
+}
+
+#size{
+    font-size: 22px;
+     color: tomato;
+     font-weight: bold;
+}
+#footer{
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%; 
+    background-color: chartreuse;
+    color: forestgreen;
+    font-size: 20px;
+}
+canvas{
+    border: 10px groove green ;
+    border-radius: 20px;
+}
